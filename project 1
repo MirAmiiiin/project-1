@@ -39,7 +39,7 @@ build/Release
 
 # Dependency directories
 node_modules/
-jspm_packages/
+jspm_packages
 
 # TypeScript v2 declaration files
 typings/
